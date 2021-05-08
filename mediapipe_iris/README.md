@@ -1,2 +1,2 @@
 how to excute
-: python demo.py
+: $ python demo.py
